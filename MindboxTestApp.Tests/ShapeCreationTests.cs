@@ -1,5 +1,4 @@
 using Xunit;
-using MindboxTestApp.ShapeHandling;
 using MindboxTestApp.ShapeHandling.Shapes;
 
 namespace MindboxTestApp.Tests

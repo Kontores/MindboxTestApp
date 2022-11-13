@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MindboxTestApp\MindboxTestApp.ShapeHandling.csproj" />
+    <ProjectReference Include="..\MindboxTestApp.ShapeHandling\MindboxTestApp.ShapeHandling.csproj" />
   </ItemGroup>
 
 </Project>
